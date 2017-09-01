@@ -1,4 +1,4 @@
-                    NestedScrolling机制分析
+                    NestedScrolling简单实现
 
 Android在发布 5.0（Lollipop）版本之后，Google为我们提供了嵌套滑动，。Lollipop及以上版本的所有View都已经支持了这套机制，Lollipop之前版本可以通过Support包进行向前兼容。
 
