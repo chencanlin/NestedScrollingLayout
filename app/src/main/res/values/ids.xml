@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_nested_scrolling_top_view" type="id"/>
+    <item name="id_tab_bottom_line" type="id"/>
+</resources>
