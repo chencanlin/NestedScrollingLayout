@@ -47,4 +47,4 @@ NestedScrollingParent接口如下：
 
 Demo 展示 ：
 
-	![](http://i.imgur.com/AHxe9YO.gif)
+![](https://i.imgur.com/dNpgDLf.gif)
